@@ -1,5 +1,5 @@
 {
-    "name": "shaneharter/php-daemon",
+    "name": "zazoomauro/php-daemon",
     "description": "Create solid, long-running PHP daemon processes",
     "keywords": ["php", "daemon"],
     "type": "library",
