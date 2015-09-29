@@ -1497,4 +1497,12 @@ abstract class Core_Daemon
 
         return $this->pid;
     }
+
+    /**
+     * @param bool $value
+     */
+    protected function set_daemon($value)
+    {
+        $this->daemon = $value;
+    }
 }
